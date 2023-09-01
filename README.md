@@ -43,3 +43,6 @@ The script animates the action potential using `FuncAnimation` from `matplotlib`
 
 Run the script to generate an animation of the action potential. The generated GIF will be saved as `action_potential_Remy_Cohan.gif`.
 
+![Action Potential Simulation by Remy Cohan](Action_Potential_Sim_RemyCohan.gif)
+
+
