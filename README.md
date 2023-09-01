@@ -19,9 +19,9 @@ Action potentials are fundamental units of information transfer in the nervous s
 ### Dependencies
 
 **import numpy as np**
-**import matplotlib.pyplot as plt**
-**from matplotlib.animation import FuncAnimation**
-**from scipy.interpolate import interp1d**
+- import matplotlib.pyplot as plt
+- from matplotlib.animation import FuncAnimation
+- from scipy.interpolate import interp1d
 
 
 # Defining the Action Potential Phases
