@@ -46,3 +46,5 @@ Run the script to generate an animation of the action potential. The generated G
 ![Action Potential Simulation by Remy Cohan](Action_Potential_Sim_RemyCohan.gif)
 
 
+This project is licensed under the GPLv3
+Remy Cohan 2023
