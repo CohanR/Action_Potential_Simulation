@@ -21,9 +21,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from scipy.interpolate import interp1d
-```
 
-### Defining the Action Potential Phases
+
+# Defining the Action Potential Phases
 The script uses a Gaussian function to simulate the rapid rise (depolarization) and fall (repolarization) of the action potential, as well as the subsequent hyperpolarization.
 
 - **Resting Potential**: A constant value of -70 mV.
